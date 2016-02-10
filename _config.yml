@@ -1,0 +1,28 @@
+name: reputation
+favicon: null
+layout_spectrum: 0.001051928149536252
+typography_spectrum: 0.2186135766096413
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7096387823112309
+  lightness: 0.04303464386612177
+  saturation: 0.4811276951804757
+  rhythmicContrast: 0.60690026730299
+purpose: []
